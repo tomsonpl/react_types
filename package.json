@@ -1,7 +1,7 @@
 {
   "name": "react_types",
   "scripts": {
-    "start:client": "webpack-dev-server --config build/webpack_client_development.config.js",
+    "start:client": "webpack-dev-server --config build/webpack_client_development.config.js"
   },
   "dependencies": {
     "@types/react": "^16.9.35",
