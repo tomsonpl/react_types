@@ -1,0 +1,6 @@
+{
+  "extends": "./tsconfig_common.json",
+  "files": [
+    "../src/client.tsx"
+  ]
+}
